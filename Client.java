@@ -7,12 +7,6 @@ public class Client {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		Animal a1=new Animal();
-		Animal a2=new Animal("Felix");
-		System.out.println(a1.name);
-		System.out.println(a2.name);
-		a1=a2;
-		System.out.println(a1.name);
 		System.out.println(a2.name);
 		
 		Animal a3= new Animal("Felix");
